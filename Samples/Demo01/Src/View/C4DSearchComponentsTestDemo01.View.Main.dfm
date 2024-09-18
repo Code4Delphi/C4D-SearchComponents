@@ -1,7 +1,7 @@
 object C4DSearchComponentsTestDemo01ViewMain: TC4DSearchComponentsTestDemo01ViewMain
   Left = 0
   Top = 0
-  Caption = 'C4DSearchComponentsTestDemo01ViewMain'
+  Caption = 'Code4D-SearchComponents'
   ClientHeight = 564
   ClientWidth = 1025
   Color = clBtnFace
